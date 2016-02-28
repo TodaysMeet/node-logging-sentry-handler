@@ -1,0 +1,22 @@
+{
+  "name": "@todaysmeet/logging-sentry-handler",
+  "version": "0.1.0",
+  "description": "SentryHandler for the logging module",
+  "main": "./lib",
+  "scripts": {
+    "test": "mocha --reporter dot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TodaysMeet/node-logging-sentry-handler.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/TodaysMeet/node-logging-sentry-handler/issues"
+  },
+  "homepage": "https://github.com/TodaysMeet/node-logging-sentry-handler#readme",
+  "dependencies": {
+    "raven": "^0.10.0"
+  }
+}
